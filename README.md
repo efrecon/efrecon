@@ -1,5 +1,7 @@
 # Dear Reader 📖
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=efrecon&theme=transparent&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" alt=""/>
+
 - 🗞 I seldom update my [blog](https://efrecon.github.io/)
 - 🛠 I often create or update private OSS projects [here](https://github.com/efrecon?tab=repositories), at [bitbucket](https://bitbucket.org/efrecon/) and [gitlab](https://gitlab.com/efrecon)
 - 💰 I sometimes create or update corporate OSS  projects, formerly at [Yanzi](https://github.com/YanziNetworks), [HealthIntegrator](https://github.com/healthintegrator) and [Mitigram](https://github.com/Mitigram), now at [GpsGate](https://github.com/GpsGate)
